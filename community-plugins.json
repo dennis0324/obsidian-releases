@@ -19248,5 +19248,12 @@
     "author": "Santi Younger",
     "description": "Calculate reading time estimates for selected text using your own reading speed in Words Per Minute.",
     "repo": "santiyounger/wpm-reading-time"
+  },
+  {
+  	"id": "obsidian-auto-mention",
+  	"name": "Auto Mention",
+  	"author": "Dennis Ko",
+  	"description": "Keeps wikilink/embed mentioners in each note's mention links frontmatter, with optional reverse strip.",
+    "repo": "dennis0324/obsidian-auto-mention"
   }
 ]
